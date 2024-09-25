@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main()
+int main(){
+     // i love banana
   int n ,sc=0;
    scanf("%d",&n);
    int num[n],i,spa;
@@ -17,4 +18,5 @@ int main()
     if(sc==0){
     printf("%d",sc);
    }
+     printf("BANANA MUHAHHA!!!!");
   }
